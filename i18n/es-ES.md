@@ -732,7 +732,7 @@ Mientras que esta guía explica el *qué*, *por qué* y *cómo*, me resulta úti
 ### Miembros accesibles Arriba
 ###### [Style [Y052](#style-y052)]
 
-  - Expón las variables que se llaman del servicio (su interfaz) arriba, usando la técnica deribada de [Revealing Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript).
+  - Expón las variables que se llaman del servicio (su interfaz) arriba, usando la técnica derivada de [Revealing Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript).
 
     *¿Por qué?*: Colocar los elementos que se llaman arriba hace más fácil la lectura y te ayuda a identificar los elementos del servicio que se pueden llamar y se deben testear (y/o mockear).
 
